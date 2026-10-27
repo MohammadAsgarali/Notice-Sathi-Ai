@@ -1,0 +1,138 @@
+[
+  {
+    "id": "notice_01",
+    "title": "National Post-Matric Scholarship Scheme 2026-27",
+    "category": "Scholarship",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "MINISTRY OF SOCIAL EMPOWERMENT\\nNATIONAL POST-MATRIC SCHOLARSHIP 2026\\n\\nEligible Students: All undergraduate degree students with family income under 2.5 LPA.\\nApplication Deadline: 30 November 2026.\\nRequired Documents: Income certificate, Caste certificate, Class 12 marksheet.\\nApplication Fee: Zero fee (Free of cost).\\nOfficial Portal: https://scholarships.gov.in"
+  },
+  {
+    "id": "notice_02",
+    "title": "Autonomous Engineering College Semester IV Exam Schedule",
+    "category": "Examination",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": false,
+    "text": "CONTROLLER OF EXAMINATIONS - GOVERNMENT ENGINEERING COLLEGE\\nNOTICE: B.Tech Sem IV Regular Examinations\\n\\nRegistration Deadline: 25 November 2026.\\nExamination Fee: INR 1200 per semester payable at college accounts desk.\\nAttendance Eligibility: Minimum 75% attendance mandatory.\\nExam begins 15 December 2026."
+  },
+  {
+    "id": "notice_03",
+    "title": "Municipal Corporation Free Health & Eye Checkup Camp",
+    "category": "Public Service",
+    "expected_deadline_present": false,
+    "expected_fee_present": false,
+    "expected_documents_present": false,
+    "text": "CIVIC HEALTH DEPARTMENT - PUBLIC SERVICE ANNOUNCEMENT\\nCommunity Eye Screening Camp\\n\\nAll senior citizens and residents are invited to free eye checkup camp at Community Hall, Ward 12 from 05 Nov to 10 Nov 2026 daily 9 AM to 1 PM.\\nNo fees, no documents required."
+  },
+  {
+    "id": "notice_04",
+    "title": "Faculty Research Innovation Grant (Ambiguous Timeline)",
+    "category": "Scholarship",
+    "expected_deadline_present": false,
+    "expected_fee_present": false,
+    "expected_documents_present": true,
+    "is_ambiguous_deadline": true,
+    "text": "DEAN OF RESEARCH - INNOVATION SEED GRANT 2026\\n\\nInviting mini-grant proposals from junior faculty members.\\nApplication Deadline: Proposals must be submitted tentatively before winter recess.\\nRequired Documents: Project abstract, itemized budget, HOD endorsement letter."
+  },
+  {
+    "id": "notice_05",
+    "title": "State University Merit Admission Round 2",
+    "category": "Admission",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "DIRECTORATE OF ADMISSIONS - MERIT ROUND 2 SEAT ALLOTMENT\\n\\nEligibility: Candidates with state entrance rank between 5001 and 12000.\\nReporting Deadline: 18 November 2026 (5:00 PM).\\nRequired Documents: Seat allotment letter, original 10th & 12th certificates, transfer certificate.\\nCounseling Fee: INR 2000 (Non-refundable)."
+  },
+  {
+    "id": "notice_06",
+    "title": "Campus Placement Drive: CloudCore Technologies",
+    "category": "Campus Event",
+    "expected_deadline_present": true,
+    "expected_fee_present": false,
+    "expected_documents_present": true,
+    "text": "TRAINING AND PLACEMENT CELL\\nCAMPUS RECRUITMENT NOTICE: CloudCore Technologies\\n\\nEligibility: Final year B.Tech CSE and IT students with CGPA 7.0 and above with no active backlogs.\\nResume Submission Deadline: 08 November 2026 (11:59 PM).\\nRequired Documents: Updated resume (PDF), college ID card copy."
+  },
+  {
+    "id": "notice_07",
+    "title": "University Central Library Annual Clearance and Book Return",
+    "category": "General Notice",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": false,
+    "text": "CENTRAL LIBRARY CIRCULAR\\nSUBJECT: Return of Borrowed Books and Overdue Fine Settlement\\n\\nAll students must return all borrowed books on or before: 30 November 2026.\\nOverdue Fine: INR 5 per day per overdue volume after cutoff.\\nClearance certificates will be issued upon return."
+  },
+  {
+    "id": "notice_08",
+    "title": "Men and Women Senior Hostel Room Re-Allotment (Winter 2026)",
+    "category": "General Notice",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "CHIEF WARDEN OFFICE - HOSTEL RE-ALLOTMENT CIRCULAR\\n\\nEligibility: Enrolled hostel boarders of 2nd and 3rd year.\\nSubmission Deadline: 12 November 2026.\\nHostel Mess & Caution Deposit: INR 18000 per semester.\\nDocuments: Previous fee receipt, parent consent declaration."
+  },
+  {
+    "id": "notice_09",
+    "title": "Annual Inter-College Cultural Festival 'TARANG 2026'",
+    "category": "Campus Event",
+    "expected_deadline_present": true,
+    "expected_fee_present": false,
+    "expected_documents_present": false,
+    "text": "STUDENT ACTIVITY COUNCIL - TARANG 2026\\n\\nAuditions for music, dance, and dramatics teams will be held on 15 November 2026 at Main Auditorium.\\nRegistration Deadline: 10 November 2026.\\nNo entry fees for bona fide university students."
+  },
+  {
+    "id": "notice_10",
+    "title": "Public Health Advisory: Seasonal Flu Vaccination Drive",
+    "category": "Public Service",
+    "expected_deadline_present": false,
+    "expected_fee_present": false,
+    "expected_documents_present": false,
+    "text": "STATE HEALTH MISSION - PUBLIC ADVISORY\\nInfluenza Vaccination Program for High-Risk Groups\\n\\nVaccinations available at all district general hospitals during regular outpatient clinic hours.\\nFree for pregnant women and elderly citizens aged 65 and above.\\nNo prior online registration needed."
+  },
+  {
+    "id": "notice_11",
+    "title": "National Technical Symposium: Call for Student Research Papers",
+    "category": "Campus Event",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "DEPARTMENT OF ELECTRICAL ENGINEERING\\nCALL FOR PAPERS: INNOTECH 2026\\n\\nSubmission Deadline: 22 November 2026.\\nRegistration Fee: INR 500 per accepted paper presentation.\\nRequired Documents: 4-page IEEE format manuscript, student identity proof."
+  },
+  {
+    "id": "notice_12",
+    "title": "Duplicate Student Identity Card Replacement Circular",
+    "category": "General Notice",
+    "expected_deadline_present": false,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "ACADEMIC SECTION NOTICE\\nPROCEDURE FOR ISSUING DUPLICATE ID CARD\\n\\nStudents who have misplaced their campus identity badge must submit: copy of police general diary entry, one passport size photograph, and fee receipt of INR 250 paid at counter 4.\\nApplications processed on rolling basis throughout working days."
+  },
+  {
+    "id": "notice_13",
+    "title": "Ph.D. Open Oral Defense & Viva-Voce Examination Notice",
+    "category": "Examination",
+    "expected_deadline_present": true,
+    "expected_fee_present": false,
+    "expected_documents_present": false,
+    "text": "OFFICE OF DEAN ACADEMIC AFFAIRS\\nPH.D. ORAL DEFENSE NOTICE\\n\\nCandidate: Ms. Ananya Sharma (Enrollment: PH22CS014)\\nTitle: Explainable AI in Public Healthcare Delivery\\nDate and Time: 14 November 2026 at 11:00 AM (Seminar Hall 2).\\nOpen to all interested scholars and faculty members."
+  },
+  {
+    "id": "notice_14",
+    "title": "Weekend Certificate Course in Data Analytics & Machine Learning",
+    "category": "Admission",
+    "expected_deadline_present": true,
+    "expected_fee_present": true,
+    "expected_documents_present": true,
+    "text": "CENTRE FOR CONTINUING EDUCATION\\nCERTIFICATE PROGRAM IN DATA ANALYTICS (BATCH 4)\\n\\nEligibility: Working professionals or students with basic Python knowledge.\\nApplication Deadline: 28 November 2026.\\nCourse Fee: INR 7500 payable in single installment.\\nRequired Documents: Graduation certificate, photo ID."
+  },
+  {
+    "id": "notice_15",
+    "title": "District Welfare Board: Senior Citizen Subsidy Distribution",
+    "category": "Public Service",
+    "expected_deadline_present": true,
+    "expected_fee_present": false,
+    "expected_documents_present": true,
+    "text": "DISTRICT SOCIAL WELFARE OFFICE\\nPUBLIC WELFARE CIRCULAR NO 19/2026\\n\\nAssistance allowance for senior citizens living below poverty line.\\nSubmission Deadline: 20 December 2026 at Taluk Office.\\nRequired Documents: Age proof certificate, BPL ration card, active bank passbook copy.\\nNo application charge."
+  }
+]

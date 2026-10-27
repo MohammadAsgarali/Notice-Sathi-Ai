@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: noticesaathi-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=NoticeSaathi AI
+      - APP_ENV=production
+      - DEBUG=False
+      - FRONTEND_ORIGIN=http://localhost:5173
+      - AI_PROVIDER=mock
+      - GEMMA_MODEL=google/gemma-4-it
+      - MAX_UPLOAD_MB=15
+    volumes:
+      - ./backend/uploads:/app/backend/uploads
+      - ./backend/noticesaathi.db:/app/backend/noticesaathi.db
+    restart: unless-stopped
+
+  frontend:
+    image: node:20-alpine
+    container_name: noticesaathi-frontend
+    working_dir: /app
+    volumes:
+      - ./frontend:/app
+    ports:
+      - "5173:5173"
+    command: sh -c "npm install && npm run dev -- --host 0.0.0.0"
+    depends_on:
+      - backend
+    restart: unless-stopped

@@ -1,0 +1,18 @@
+[SYNTHETIC DEMONSTRATION NOTICE - NOT AN OFFICIAL ANNOUNCEMENT]
+DEPARTMENT OF RESEARCH AND INNOVATION
+NOTICE: RESEARCH INTERNSHIP TRAVEL ASSISTANCE GRANT 2026-27
+
+1. PURPOSE:
+Travel grant assistance for research students presenting accepted papers at national symposia.
+
+2. ELIGIBILITY:
+Registered full-time Ph.D. scholars with an accepted peer-reviewed paper.
+
+3. IMPORTANT NOTICE AMBIGUITY:
+- Application deadline: Applications must be submitted 'shortly before conference dates' (Tentative, subject to chairperson approval).
+- Required documents: No clear list of required documents is stated in this circular.
+- Fee: No fee mentioned.
+- Contact: No phone number or email address is mentioned.
+
+This document is intentionally constructed with missing and ambiguous fields to test NoticeSaathi AI's uncertainty and missing-information detection engine.
+[END OF NOTICE]
